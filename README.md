@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akash14G
 - 👀 I’m interested in ...data science and bussiness analatics
-- 🌱 I’m currently learning ...artificial intelligence nad data science
+- 🌱 I’m currently learning ...artificial intelligence and data science
 - 📫 How to reach me ...gaikwadakash1402@gmail.com
 -
 
